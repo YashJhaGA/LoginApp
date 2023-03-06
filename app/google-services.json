@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611197467452",
+    "project_id": "new-login-app-e7554",
+    "storage_bucket": "new-login-app-e7554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611197467452:android:0700f33e4f4c901074bc39",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611197467452-7v2q3k15kpd6bhn85929s83knkik2u58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMhgVQR7tdQgYwM5Vbm0KjYeiKz4ip1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611197467452-7v2q3k15kpd6bhn85929s83knkik2u58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
